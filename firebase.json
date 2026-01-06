@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist",
+    "public": "gugunhijrah-cyber/omnipos",
     "ignore": [
       "firebase.json",
       "**/.*",
